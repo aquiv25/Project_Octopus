@@ -1,0 +1,54 @@
+# Large data files
+*.fna
+*.fna.gz
+*.fasta.gz
+*.bedgraph
+# *.bedgraph.gz  # tracked via LFS
+*.bed.gz
+*.gff
+*.gff.gz
+*.bam
+*.bam.bai
+
+# MEME output (large)
+meme_output/
+meme.txt
+
+# Results and intermediate files
+# results/  # tracked — contains output tables
+*.log
+*.iqtree
+*.treefile
+*.log
+*.ckp.gz
+*.model.gz
+*.bionj
+*.mldist
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+Rplots.pdf
+*.Rout
+
+# macOS
+.DS_Store
+.AppleDouble
+*.dmg
+
+# Secrets / keys
+*.env
+.env*
+
+# Temporary
+*.tmp
+*.bak

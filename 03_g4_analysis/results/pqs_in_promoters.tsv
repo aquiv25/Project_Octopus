@@ -1,0 +1,744 @@
+Chromosome	start	end	name	strand	description
+chr1	1856888	1856911	LOC106875786	-	platelet binding protein GspB-like
+chr1	6269819	6269882	LOC106882384	-	laminin subunit alpha-1
+chr1	6419864	6419903	LOC106880974	+	axotactin
+chr1	7331903	7331930	LOC106872549	-	zinc finger protein 570
+chr1	8967267	8967288	LOC106872326	+	serine/threonine-protein phosphatase 4 catalytic subunit
+chr1	10252628	10252648	LOC106883328	-	colorectal mutant cancer protein
+chr1	18493835	18493858	LOC106874072	+	annexin A4
+chr1	18493835	18493858	LOC106874072	+	annexin A4
+chr2	95276	95339	LOC106870749	+	Fanconi anemia group I protein
+chr2	3825476	3825502	LOC106884236	-	cell division cycle protein 27 homolog
+chr2	3977276	3977298	LOC106884240	+	putative methyltransferase C9orf114 homolog
+chr2	19434364	19434382	LOC106882687	+	5-hydroxytryptamine receptor 1
+chr2	34081304	34081330	LOC106868110	+	epoxide hydrolase 4
+chr2	38785474	38785499	LOC106874684	+	innexin unc-9
+chr2	38785526	38785568	LOC106874684	+	innexin unc-9
+chr2	41055627	41055650	LOC106884228	+	mucin-17
+chr2	41057169	41057208	LOC106884227	-	uncharacterized LOC106884227
+chr2	42031034	42031054	LOC106880539	-	photoreceptor-specific nuclear receptor
+chr2	51992257	51992280	LOC106867406	-	tripartite motif-containing protein 2
+chr2	51992364	51992388	LOC106867406	-	tripartite motif-containing protein 2
+chr2	55673686	55673717	LOC106877942	+	ADP-ribosylation factor-like protein 6-interacting protein 1
+chr2	68553451	68553473	LOC106879514	-	ralBP1-associated Eps domain-containing protein 1
+chr2	69813551	69813573	LOC106869239	+	galactoside 2-alpha-L-fucosyltransferase SEC1
+chr2	75277671	75277698	LOC106875359	+	uncharacterized LOC106875359
+chr2	75277731	75277758	LOC106875359	+	uncharacterized LOC106875359
+chr2	75277812	75277833	LOC106875359	+	uncharacterized LOC106875359
+chr2	75277932	75277977	LOC106875359	+	uncharacterized LOC106875359
+chr2	75278226	75278253	LOC106875359	+	uncharacterized LOC106875359
+chr2	75278388	75278409	LOC106875359	+	uncharacterized LOC106875359
+chr2	75278514	75278535	LOC106875359	+	uncharacterized LOC106875359
+chr2	75278652	75278679	LOC106875359	+	uncharacterized LOC106875359
+chr2	75278910	75278937	LOC106875359	+	uncharacterized LOC106875359
+chr2	75279161	75279183	LOC106875359	+	uncharacterized LOC106875359
+chr2	85696558	85696580	LOC106880691	-	rab-3A-interacting protein-like
+chr2	86937106	86937141	LOC106875782	+	uncharacterized LOC106875782
+chr2	86937840	86937873	LOC106875782	+	uncharacterized LOC106875782
+chr2	97275843	97275864	LOC106879575	-	tryptophan--tRNA ligase, mitochondrial
+chr2	99119467	99119487	LOC128247184	-	U6 spliceosomal RNA
+chr2	110604322	110604343	LOC106884312	-	probable ATP-dependent RNA helicase DDX10
+chr2	115024376	115024397	LOC106881127	-	beta-1,3-galactosyltransferase 1
+chr2	116314634	116314664	LOC106871500	+	uncharacterized LOC106871500
+chr2	121193021	121193060	LOC106876558	+	uncharacterized LOC106876558
+chr2	121193844	121193872	LOC106876558	+	uncharacterized LOC106876558
+chr2	133260744	133260783	LOC106880126	+	uncharacterized LOC106880126
+chr2	134775323	134775368	LOC106873483	+	synaptotagmin-6
+chr2	137658381	137658403	LOC106869416	-	zinc finger CCCH domain-containing protein 15
+chr2	138031197	138031218	LOC106873534	-	dnaJ homolog subfamily C member 8
+chr2	144106646	144106678	LOC106875154	+	PI-PLC X domain-containing protein 3
+chr2	162763021	162763038	LOC106875269	+	tectonin beta-propeller repeat-containing protein 1
+chr2	163133510	163133536	LOC128247145	-	U6 spliceosomal RNA
+chr2	166649758	166649785	LOC106881530	+	cilia- and flagella-associated protein 206
+chr3	254762	254781	LOC106884459	+	cyclin-Y
+chr3	255087	255108	LOC106884459	+	cyclin-Y
+chr3	1129676	1129697	LOC106872848	-	aromatic-L-amino-acid decarboxylase
+chr3	2081189	2081206	LOC128247254	-	uncharacterized LOC128247254
+chr3	2276862	2276883	LOC106867637	+	carboxylesterase 5A-like
+chr3	11767837	11767858	LOC106883284	-	regulating synaptic membrane exocytosis protein 1
+chr3	11767837	11767858	LOC128247400	+	uncharacterized LOC128247400
+chr3	11883792	11883813	LOC106883285	+	DNA mismatch repair protein Mlh3
+chr3	16917440	16917491	LOC106873508	+	F-box-like/WD repeat-containing protein TBL1X
+chr3	28377131	28377159	LOC128247272	+	uncharacterized LOC128247272
+chr3	29194060	29194097	LOC106876729	+	uncharacterized LOC106876729
+chr3	29194114	29194143	LOC106876729	+	uncharacterized LOC106876729
+chr3	29876574	29876594	LOC106867285	-	uncharacterized LOC106867285
+chr3	32224585	32224606	LOC106877468	-	peroxisomal ATPase PEX6
+chr3	35158674	35158713	LOC106877508	+	uncharacterized LOC106877508
+chr3	35433825	35433868	LOC106876244	-	carbohydrate sulfotransferase 11
+chr3	35433931	35433954	LOC106876244	-	carbohydrate sulfotransferase 11
+chr3	35433983	35434003	LOC106876244	-	carbohydrate sulfotransferase 11
+chr3	35477409	35477432	LOC106876249	-	hydroxymethylglutaryl-CoA lyase, mitochondrial
+chr3	42082291	42082318	Trnal-uaa	-	transfer RNA leucine (anticodon UAA)
+chr3	43365131	43365158	LOC106868450	-	general transcription factor 3C polypeptide 6-like
+chr3	45101403	45101420	LOC106868697	-	circumsporozoite protein-like
+chr3	47260653	47260683	LOC106875854	-	protein usf
+chr3	47283748	47283778	LOC106875853	-	phosducin-like protein 3
+chr3	47283748	47283778	LOC106881731	+	uncharacterized LOC106881731
+chr3	47283813	47283856	LOC106875853	-	phosducin-like protein 3
+chr3	47283813	47283856	LOC106881731	+	uncharacterized LOC106881731
+chr3	47283867	47283890	LOC106875853	-	phosducin-like protein 3
+chr3	47283867	47283890	LOC106881731	+	uncharacterized LOC106881731
+chr3	47636964	47636972	LOC128247407	+	uncharacterized LOC128247407
+chr3	53825662	53825701	LOC106880479	-	sodium-coupled monocarboxylate transporter 1
+chr3	62533669	62533687	LOC106878994	-	sigma intracellular receptor 2
+chr3	68564543	68564566	LOC106872085	+	uncharacterized protein C05D11.1
+chr3	71741722	71741739	LOC106868052	-	ras-related protein Rab-20
+chr3	81065729	81065758	LOC128247303	+	uncharacterized LOC128247303
+chr3	81066527	81066544	LOC128247303	+	uncharacterized LOC128247303
+chr3	83050486	83050561	LOC106882790	-	uncharacterized LOC106882790
+chr3	83050573	83050596	LOC106882790	-	uncharacterized LOC106882790
+chr3	83050606	83050632	LOC106882790	-	uncharacterized LOC106882790
+chr3	86797382	86797410	LOC128247429	-	uncharacterized protein DDB_G0271670-like
+chr3	94194551	94194573	LOC106882165	+	PSME3-interacting protein
+chr3	99835384	99835413	LOC106875715	+	casein kinase I-like
+chr3	99835563	99835585	LOC106875715	+	casein kinase I-like
+chr3	101252608	101252640	LOC106870336	+	myeloid leukemia factor 1
+chr3	101546653	101546700	LOC106875921	+	general transcription factor IIH subunit 2
+chr3	114230529	114230550	Trnag-ucc	+	transfer RNA glycine (anticodon UCC)
+chr3	117821493	117821516	LOC106867207	-	uncharacterized LOC106867207
+chr3	117821527	117821582	LOC106867207	-	uncharacterized LOC106867207
+chr3	119445175	119445202	LOC106876646	+	transcription termination factor 3, mitochondrial
+chr3	119905159	119905180	LOC106878122	+	histone deacetylase 6
+chr3	130381767	130381795	LOC106877717	+	uncharacterized LOC106877717
+chr3	147224401	147224421	LOC106884088	+	sulfotransferase 1C4
+chr3	157557288	157557313	LOC106883939	+	peroxisomal acyl-coenzyme A oxidase 1
+chr3	157557348	157557403	LOC106883939	+	peroxisomal acyl-coenzyme A oxidase 1
+chr3	161416089	161416108	Trnag-gcc	+	transfer RNA glycine (anticodon GCC)
+chr3	161636827	161636848	LOC106867194	+	E3 ubiquitin-protein ligase RNF217
+chr3	165977122	165977146	LOC106867349	+	splicing factor 3A subunit 2
+chr4	1465690	1465707	LOC106869040	-	uncharacterized LOC106869040
+chr4	1697950	1697981	LOC106869036	+	thioredoxin, mitochondrial
+chr4	9945885	9945920	LOC106875045	-	synaptic vesicular amine transporter
+chr4	11305589	11305622	LOC106872182	-	deaminated glutathione amidase
+chr4	11305630	11305651	LOC106872182	-	deaminated glutathione amidase
+chr4	11426786	11426809	LOC106872187	+	formylglycine-generating enzyme
+chr4	11644199	11644219	LOC128247553	+	uncharacterized LOC128247553
+chr4	16970248	16970313	LOC106875194	+	mitochondrial nicotinamide adenine dinucleotide transporter SLC25A51
+chr4	16970248	16970313	LOC106875195	+	dnaJ homolog subfamily C member 27
+chr4	18808245	18808270	LOC128247557	-	uncharacterized LOC128247557
+chr4	20349634	20349660	LOC106881587	-	E3 ubiquitin-protein ligase RNF14
+chr4	20349634	20349660	LOC106881596	+	nuclear RNA export factor 1
+chr4	20763713	20763732	LOC106876307	-	sprouty-related, EVH1 domain-containing protein 2
+chr4	21061077	21061103	LOC106876310	+	uncharacterized LOC106876310
+chr4	21438489	21438511	LOC106883817	-	NADP-dependent oxidoreductase domain-containing protein 1
+chr4	23485572	23485599	LOC106882808	+	chitobiosyldiphosphodolichol beta-mannosyltransferase
+chr4	24906338	24906389	LOC106881119	-	failed axon connections homolog
+chr4	26290733	26290758	LOC106868014	-	motor neuron and pancreas homeobox protein 1
+chr4	41754720	41754741	LOC128247673	-	uncharacterized LOC128247673
+chr4	51137652	51137676	LOC106870195	-	uncharacterized LOC106870195
+chr4	51137695	51137720	LOC106870195	-	uncharacterized LOC106870195
+chr4	54432939	54432959	LOC128247585	+	uncharacterized LOC128247585
+chr4	71947030	71947049	LOC128247681	+	uncharacterized LOC128247681
+chr4	73559075	73559132	LOC106870899	-	dnaJ homolog subfamily B member 13
+chr4	74925195	74925216	LOC128247683	+	uncharacterized LOC128247683
+chr4	88968229	88968253	LOC106877314	+	uncharacterized LOC106877314
+chr4	91528668	91528687	LOC106871945	-	uncharacterized LOC106871945
+chr4	92995130	92995171	LOC128247608	-	uncharacterized LOC128247608
+chr4	93159005	93159027	LOC128247657	+	piggyBac transposable element-derived protein 4-like
+chr4	93159996	93160016	LOC128247657	+	piggyBac transposable element-derived protein 4-like
+chr4	101658801	101658826	LOC106878790	-	cilia- and flagella-associated protein 54
+chr4	107192980	107193001	LOC106875438	+	uncharacterized LOC106875438
+chr4	108727309	108727344	LOC128247663	-	uncharacterized protein DDB_G0271670-like
+chr4	114274491	114274519	LOC128247621	+	uncharacterized LOC128247621
+chr4	118952427	118952455	LOC106874852	-	synaptotagmin-1
+chr4	120484094	120484123	LOC106876926	+	titin
+chr4	120999732	120999763	LOC106868135	+	von Willebrand factor A domain-containing protein 2
+chr4	125476578	125476611	LOC106871551	+	solute carrier organic anion transporter family member 2A1
+chr4	126309631	126309646	LOC106874002	+	mitochondrial inner membrane protease subunit 2
+chr4	136344997	136345014	Trnay-gua	-	transfer RNA tyrosine (anticodon GUA)
+chr4	137662026	137662049	LOC106876987	+	uncharacterized LOC106876987
+chr4	137806234	137806264	LOC128247717	+	U6 spliceosomal RNA
+chr4	138757237	138757261	LOC106872722	+	uncharacterized LOC106872722
+chr4	140331110	140331133	Trnay-gua	+	transfer RNA tyrosine (anticodon GUA)
+chr4	144128978	144128997	LOC106876479	-	protein deltex-like
+chr4	144761531	144761565	LOC106881915	-	uncharacterized LOC106881915
+chr4	146430054	146430075	LOC106884256	-	rho GTPase-activating protein 18
+chr5	534130	534155	LOC106868193	-	uncharacterized LOC106868193
+chr5	3380399	3380422	LOC106867826	-	SET and MYND domain-containing protein 4
+chr5	3592020	3592050	LOC106867831	+	uncharacterized LOC106867831
+chr5	7575237	7575258	LOC106868705	+	mitochondrial import inner membrane translocase subunit Tim23
+chr5	9285400	9285421	LOC106877297	-	short-chain dehydrogenase/reductase family 9C member 7
+chr5	10858792	10858811	LOC106884350	-	uncharacterized LOC106884350
+chr5	14894849	14894882	LOC106880592	-	zinc finger CCHC domain-containing protein 9
+chr5	15022822	15022842	Trnaa-agc	+	transfer RNA alanine (anticodon AGC)
+chr5	15553568	15553603	LOC106869677	-	N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase
+chr5	16110946	16110969	LOC106874494	+	uncharacterized LOC106874494
+chr5	17904136	17904160	LOC106868587	-	transcriptional adapter 3
+chr5	18415061	18415109	LOC106871757	+	actin-like protein 6B
+chr5	18794994	18795039	LOC106871751	-	DENN domain-containing protein 2B
+chr5	21526466	21526523	LOC106875789	-	cytoskeleton-associated protein 5
+chr5	21641392	21641417	LOC106875808	-	nucleolin
+chr5	21745079	21745110	LOC106875791	-	peroxisomal ATPase PEX1
+chr5	22355883	22355928	LOC106883085	+	lysosomal alpha-mannosidase
+chr5	22951352	22951373	LOC128247847	+	snaclec bitiscetin subunit alpha-like
+chr5	27146121	27146154	LOC128247968	-	5S ribosomal RNA
+chr5	30395692	30395719	LOC106872868	-	cystathionine beta-synthase
+chr5	41060857	41060892	LOC106869139	-	WD repeat-containing protein on Y chromosome
+chr5	42710357	42710380	LOC106879332	-	protein N-terminal asparagine amidohydrolase
+chr5	50133541	50133557	LOC106883232	-	tRNA wybutosine-synthesizing protein 2 homolog
+chr5	51760810	51760831	LOC106875702	-	F-actin-capping protein subunit alpha-2
+chr5	52746946	52746970	LOC106870476	-	uncharacterized LOC106870476
+chr5	55931925	55931956	LOC128247926	-	uncharacterized LOC128247926
+chr5	59979221	59979256	LOC106872502	+	serine/threonine-protein kinase SIK1
+chr5	59979292	59979315	LOC106872502	+	serine/threonine-protein kinase SIK1
+chr5	62758808	62758845	LOC106869162	+	adapter molecule Crk
+chr5	63314887	63314986	LOC106870414	+	tropomyosin Tod p 1.0102
+chr5	63315038	63315082	LOC106870414	+	tropomyosin Tod p 1.0102
+chr5	64916067	64916096	LOC128247870	-	piggyBac transposable element-derived protein 4-like
+chr5	65430520	65430585	LOC106884092	-	uridine 5'-monophosphate synthase
+chr5	65430674	65430758	LOC106884092	-	uridine 5'-monophosphate synthase
+chr5	66950238	66950265	LOC106878024	-	histone-lysine N-methyltransferase SETMAR-like
+chr5	76988048	76988079	LOC106879041	+	sphingosine-1-phosphate lyase 1
+chr5	81460349	81460380	LOC106883808	+	uncharacterized LOC106883808
+chr5	95769108	95769141	LOC128247813	+	uncharacterized LOC128247813
+chr5	106061539	106061560	LOC106881109	-	uncharacterized LOC106881109
+chr5	107136692	107136713	LOC106879589	-	E3 ubiquitin-protein ligase CHIP
+chr5	107169615	107169634	LOC106879590	-	cysteine desulfurase
+chr5	108158836	108158857	LOC106871273	-	gelsolin-like protein 2
+chr5	117907992	117908011	LOC128247975	+	5S ribosomal RNA
+chr5	126854388	126854412	LOC106878810	-	transmembrane protein 115
+chr6	3615737	3615762	LOC106882966	-	dnaJ homolog subfamily B member 12
+chr6	3615813	3615858	LOC106882966	-	dnaJ homolog subfamily B member 12
+chr6	9497827	9497847	LOC128248096	-	uncharacterized LOC128248096
+chr6	10062117	10062137	LOC128248097	+	uncharacterized LOC128248097
+chr6	10062935	10062965	LOC128248097	+	uncharacterized LOC128248097
+chr6	11218981	11219005	LOC106870445	+	zinc finger protein 665
+chr6	11755122	11755142	LOC106879293	+	Na(+)/H(+) exchange regulatory cofactor NHE-RF3
+chr6	12884303	12884323	LOC128248101	-	uncharacterized LOC128248101
+chr6	13221447	13221468	LOC106882363	-	tubulin alpha-3 chain
+chr6	20233227	20233252	LOC106875711	+	alpha-actinin, sarcomeric
+chr6	25125546	25125580	LOC106869476	-	retinochrome
+chr6	26679062	26679101	LOC106880735	-	forkhead box protein J1-B
+chr6	27828389	27828411	LOC106869332	+	nonsense-mediated mRNA decay factor SMG5
+chr6	38148710	38148735	LOC106881836	-	centromere protein M
+chr6	44154198	44154216	LOC106871559	-	uncharacterized LOC106871559
+chr6	54548360	54548382	LOC106883771	-	visual system homeobox 2-like
+chr6	55246630	55246659	Trnaf-gaa	-	transfer RNA phenylalanine (anticodon GAA)
+chr6	61818575	61818596	LOC128248143	-	uncharacterized LOC128248143
+chr6	62227364	62227382	LOC128248146	-	uncharacterized LOC128248146
+chr6	72385375	72385402	LOC106873536	+	rab11 family-interacting protein 4A
+chr6	80318732	80318753	LOC106882567	-	RNA polymerase I-specific transcription initiation factor RRN3
+chr6	82980765	82980786	LOC106871467	-	zinc finger protein 708
+chr6	82980765	82980786	LOC106871459	+	zinc finger protein 91
+chr6	89286431	89286461	LOC128248050	+	uncharacterized LOC128248050
+chr6	91199367	91199386	LOC106869821	-	selenoprotein N-like
+chr6	94929846	94929881	LOC106877767	-	homeobox protein Mix.2
+chr6	95728008	95728025	LOC106882824	-	cell cycle checkpoint protein RAD1
+chr6	95728008	95728025	LOC106882825	+	N-alpha-acetyltransferase 20
+chr6	96773124	96773145	LOC106879975	-	zinc finger protein 708-like
+chr6	104018377	104018394	LOC106872968	+	uncharacterized LOC106872968
+chr6	106711254	106711275	LOC128248185	-	U6 spliceosomal RNA
+chr6	106748984	106748999	LOC128248170	+	uncharacterized LOC128248170
+chr6	107253558	107253585	LOC128248179	-	uncharacterized LOC128248179
+chr6	114905648	114905668	LOC106872074	-	polymerase delta-interacting protein 2
+chr6	114905648	114905668	LOC106872075	+	SRR1-like protein
+chr6	115298184	115298206	LOC106872065	-	uncharacterized LOC106872065
+chr7	384569	384602	LOC106872245	+	CD151 antigen
+chr7	4616175	4616194	LOC128248317	-	troponin I-like
+chr7	8728895	8728910	LOC106877291	+	uncharacterized LOC106877291
+chr7	11824685	11824705	LOC106882388	+	ATP-dependent DNA helicase Q1
+chr7	14025493	14025522	LOC128248305	-	uncharacterized LOC128248305
+chr7	14197930	14197981	LOC106871135	+	uncharacterized LOC106871135
+chr7	15742014	15742034	LOC128248324	-	ATP-binding cassette sub-family D member 3-like
+chr7	16404139	16404162	LOC106873375	+	gamma-interferon-inducible lysosomal thiol reductase
+chr7	18966273	18966294	LOC106881365	-	zinc finger protein 239-like
+chr7	19097530	19097587	LOC106881372	-	protein THEM6
+chr7	19413114	19413138	LOC106872893	+	phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase TPTE2
+chr7	19950187	19950274	LOC106872890	+	exosome complex component RRP45-like
+chr7	21438155	21438174	LOC106878214	+	uncharacterized LOC106878214
+chr7	21957077	21957103	LOC106879533	-	TBC1 domain family member 1
+chr7	23536423	23536445	LOC106878875	-	zinc finger protein 665
+chr7	23997559	23997585	LOC106881341	-	uncharacterized LOC106881341
+chr7	24249330	24249355	LOC106881339	+	zinc finger protein 737
+chr7	24335901	24335927	LOC106871976	+	zinc finger protein 239
+chr7	24349992	24350018	LOC106871970	+	zinc finger protein 239-like
+chr7	30055804	30055833	LOC106883194	-	uncharacterized LOC106883194
+chr7	42616268	42616289	LOC106881870	-	gamma-interferon-inducible lysosomal thiol reductase
+chr7	48138951	48138975	LOC106873263	-	nuclear factor NF-kappa-B p105 subunit
+chr7	48139558	48139581	LOC106873263	-	nuclear factor NF-kappa-B p105 subunit
+chr7	51075042	51075060	LOC106884047	+	tigger transposable element-derived protein 6-like
+chr7	59540477	59540512	LOC106867690	-	low molecular weight phosphotyrosine protein phosphatase
+chr7	59608638	59608653	LOC106867695	-	N-acetylglucosamine-1-phosphotransferase subunits alpha/beta
+chr7	86813419	86813439	LOC128248429	-	5S ribosomal RNA
+chr7	104479745	104479794	LOC106868924	+	GS homeobox 1
+chr7	104666089	104666117	LOC106876456	+	homeobox protein abdominal-A
+chr7	104666595	104666621	LOC106876456	+	homeobox protein abdominal-A
+chr7	109460661	109460681	LOC106881575	-	zinc finger protein 98
+chr7	110482312	110482333	LOC106867167	-	beta-1,3-galactosyltransferase 1
+chr8	926979	927024	LOC106872567	-	uncharacterized LOC106872567
+chr8	1908384	1908449	LOC106878296	+	chitotriosidase-1
+chr8	5348533	5348560	LOC106878899	+	integrator complex subunit 6
+chr8	5465835	5465874	LOC106878893	+	mediator of RNA polymerase II transcription subunit 28
+chr8	5465933	5465953	LOC106878893	+	mediator of RNA polymerase II transcription subunit 28
+chr8	13395798	13395826	LOC106879194	+	small glutamine-rich tetratricopeptide repeat-containing protein beta
+chr8	13831478	13831511	LOC106869491	-	uncharacterized LOC106869491
+chr8	15115810	15115839	LOC106868643	+	zinc finger protein 62
+chr8	15456178	15456204	LOC106867492	-	p21-activated protein kinase-interacting protein 1-like
+chr8	15659991	15660012	LOC106869242	-	calumenin-A
+chr8	21466101	21466145	LOC128248508	+	uncharacterized LOC128248508
+chr8	30699195	30699216	LOC128248512	-	uncharacterized LOC128248512
+chr8	39325722	39325753	LOC106884437	-	very low-density lipoprotein receptor
+chr8	57404351	57404380	LOC106880843	+	uncharacterized LOC106880843
+chr8	57404399	57404442	LOC106880843	+	uncharacterized LOC106880843
+chr8	57404511	57404534	LOC106880843	+	uncharacterized LOC106880843
+chr8	81208497	81208518	LOC106877634	-	uncharacterized LOC106877634
+chr8	85041972	85042003	LOC106868781	-	hillarin
+chr8	85042044	85042072	LOC106868781	-	hillarin
+chr8	85243840	85243865	LOC106880036	-	intraflagellar transport protein 74 homolog
+chr8	86068371	86068404	LOC106876543	+	zinc finger protein 227
+chr8	86762420	86762443	Trnam-cau	+	transfer RNA methionine (anticodon CAU)
+chr8	86762420	86762443	Trnam-cau	+	transfer RNA methionine (anticodon CAU)
+chr8	91124566	91124587	LOC106874582	+	serine protease/ABC transporter B family protein tagB
+chr8	91348401	91348424	LOC106874583	+	putative mediator of RNA polymerase II transcription subunit 26
+chr8	92294961	92294994	LOC128248604	+	carbonic anhydrase 2-like
+chr8	92835250	92835301	LOC106874573	+	medium-chain acyl-CoA ligase ACSF2, mitochondrial
+chr8	95066092	95066121	LOC106878676	-	silk gland factor 3
+chr8	95842929	95842953	LOC106868263	-	uncharacterized LOC106868263
+chr8	96342509	96342556	LOC128248533	-	uncharacterized LOC128248533
+chr8	96342615	96342658	LOC128248533	-	uncharacterized LOC128248533
+chr9	772788	772808	LOC106879486	+	ankyrin repeat and MYND domain-containing protein 2
+chr9	5684124	5684154	LOC106878202	+	uncharacterized LOC106878202
+chr9	7149185	7149206	LOC106873983	-	putative uncharacterized protein DDB_G0282133
+chr9	10970924	10970951	Trnai-aau	-	transfer RNA isoleucine (anticodon AAU)
+chr9	17637347	17637382	LOC128248701	-	fibropellin-1-like
+chr9	18695986	18696007	LOC128248675	-	transmembrane protein 229B-like
+chr9	20071444	20071468	LOC128248706	-	uncharacterized LOC128248706
+chr9	29372594	29372623	LOC106869710	-	phosphatase and actin regulator 1
+chr9	29486767	29486785	LOC106873317	+	glyoxylate reductase/hydroxypyruvate reductase
+chr9	30942267	30942315	LOC106871348	+	uncharacterized LOC106871348
+chr9	32905322	32905374	LOC106884391	+	polypeptide N-acetylgalactosaminyltransferase 13
+chr9	32905395	32905416	LOC106884391	+	polypeptide N-acetylgalactosaminyltransferase 13
+chr9	33501421	33501462	LOC106875105	-	uncharacterized LOC106875105
+chr9	34951664	34951706	LOC106874295	+	presenilins-associated rhomboid-like protein, mitochondrial
+chr9	41113708	41113725	LOC106872661	+	uncharacterized LOC106872661
+chr9	42551237	42551267	LOC106870299	+	uncharacterized LOC106870299
+chr9	67134165	67134196	LOC106870598	-	ribonucleases P/MRP protein subunit POP1
+chr9	69112444	69112471	LOC106868047	-	glyoxylate/hydroxypyruvate reductase A
+chr9	69112480	69112501	LOC106868047	-	glyoxylate/hydroxypyruvate reductase A
+chr9	70448774	70448797	LOC106883644	+	meckelin
+chr9	70448820	70448851	LOC106883644	+	meckelin
+chr9	75552985	75553005	LOC106869763	-	uncharacterized LOC106869763
+chr9	86193233	86193252	LOC106882753	+	SH3 domain-binding protein 5-like
+chr9	88569225	88569255	LOC106872454	-	tubulin alpha-4 chain
+chr10	3161848	3161879	LOC106871020	-	uncharacterized LOC106871020
+chr10	6217647	6217676	LOC106882331	+	zinc finger protein 271
+chr10	6217699	6217720	LOC106882331	+	zinc finger protein 271
+chr10	6482489	6482531	LOC106881389	-	vesicular inhibitory amino acid transporter
+chr10	17277320	17277341	LOC106883983	-	D-3-phosphoglycerate dehydrogenase
+chr10	23062587	23062618	LOC106873980	-	UDP-glucose:glycoprotein glucosyltransferase 1
+chr10	24849352	24849375	Trnae-uuc	+	transfer RNA glutamic acid (anticodon UUC)
+chr10	25192171	25192198	LOC106880784	-	microtubule-actin cross-linking factor 1, isoforms 1/2/3/4
+chr10	25309720	25309742	LOC106880762	-	plectin
+chr10	25667299	25667321	LOC106880774	-	eukaryotic translation initiation factor 2 subunit 1
+chr10	26361169	26361188	LOC106877481	-	heparan sulfate glucosamine 3-O-sulfotransferase 5
+chr10	26361274	26361301	LOC106877481	-	heparan sulfate glucosamine 3-O-sulfotransferase 5
+chr10	45353302	45353329	LOC106881980	+	RWD domain-containing protein 3
+chr10	51461417	51461439	LOC106877848	+	uncharacterized LOC106877848
+chr10	51520272	51520301	LOC106877849	-	uncharacterized LOC106877849
+chr10	53529189	53529214	LOC106872759	+	uncharacterized LOC106872759
+chr10	54405572	54405599	LOC106883569	-	zinc finger protein 239
+chr10	55211999	55212026	LOC106872589	-	myosin-VIIa
+chr10	55212308	55212329	LOC106872589	-	myosin-VIIa
+chr10	62101370	62101403	LOC106884059	-	zinc finger protein 836
+chr10	69318535	69318568	LOC106867517	+	epidermal growth factor receptor
+chr10	76701711	76701732	LOC106882182	-	succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial
+chr10	76886861	76886879	LOC106880792	-	SCO-spondin
+chr10	76994678	76994757	LOC128246986	-	SCO-spondin-like
+chr10	79256663	79256687	LOC106869537	-	dickkopf-related protein 3
+chr10	79257005	79257027	LOC106869537	-	dickkopf-related protein 3
+chr10	79491159	79491180	LOC106883344	-	T-box transcription factor T homolog 1
+chr10	79667101	79667128	LOC106876613	+	histone H2A
+chr10	85552501	85552524	LOC106884267	-	rab effector MyRIP
+chr10	85552583	85552587	LOC106884267	-	rab effector MyRIP
+chr10	91987687	91987726	LOC106879026	-	transcription factor MafK
+chr10	92866044	92866060	LOC106876566	-	HEAT repeat-containing protein 1
+chr10	93481800	93481832	LOC106877200	-	ubiquitin carboxyl-terminal hydrolase 46
+chr11	189886	189901	LOC106881191	+	uncharacterized LOC106881191
+chr11	995350	995379	LOC106882544	+	rho guanine nucleotide exchange factor 39
+chr11	2179727	2179747	LOC106876549	+	3'(2'),5'-bisphosphate nucleotidase 1
+chr11	6350840	6350855	LOC106877175	-	5'-3' exonuclease PLD3
+chr11	6546054	6546079	LOC106877153	+	uncharacterized LOC106877153
+chr11	8797154	8797176	LOC106883245	+	uncharacterized LOC106883245
+chr11	15984135	15984192	LOC106869717	+	FYVE, RhoGEF and PH domain-containing protein 6
+chr11	15984611	15984644	LOC106869717	+	FYVE, RhoGEF and PH domain-containing protein 6
+chr11	15984653	15984722	LOC106869717	+	FYVE, RhoGEF and PH domain-containing protein 6
+chr11	16792251	16792294	LOC106873114	+	protein dispatched homolog 1
+chr11	17176149	17176166	LOC106875622	-	3-oxo-5-alpha-steroid 4-dehydrogenase 1
+chr11	18368338	18368361	LOC128249054	+	uncharacterized LOC128249054
+chr11	18894538	18894581	LOC106878908	-	dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial
+chr11	21257084	21257110	LOC106869215	+	organic anion transporter 3-like
+chr11	21342816	21342843	LOC106869319	+	organic anion transporter 3
+chr11	23092803	23092823	LOC106879940	-	mediator of RNA polymerase II transcription subunit 6
+chr11	26923490	26923522	LOC128249110	+	uncharacterized LOC128249110
+chr11	33991746	33991773	LOC106879494	-	2-aminoethylphosphonate--pyruvate transaminase
+chr11	43704819	43704840	LOC106879839	+	probable RNA-binding protein EIF1AD
+chr11	51442427	51442445	LOC128249118	-	hemagglutinin/proteinase-like
+chr11	52652013	52652036	LOC106875974	+	uncharacterized LOC106875974
+chr11	52958499	52958521	LOC106873189	+	uncharacterized LOC106873189
+chr11	55285754	55285779	LOC106870695	-	uncharacterized LOC106870695
+chr11	59588329	59588356	LOC106877916	-	uncharacterized LOC106877916
+chr11	65889208	65889231	LOC106879364	-	uncharacterized LOC106879364
+chr11	66605398	66605427	LOC106883698	-	UDP-glucuronosyltransferase 2B37
+chr11	77706262	77706282	LOC106868589	+	uncharacterized LOC106868589
+chr11	78376074	78376100	LOC106868588	+	vesicle transport through interaction with t-SNAREs homolog 1B
+chr11	80266191	80266214	LOC106878522	+	copine-8
+chr11	80266325	80266352	LOC106878522	+	copine-8
+chr12	343947	343992	LOC106880142	+	nephrocystin-4
+chr12	7840650	7840701	LOC106870417	-	lisH domain-containing protein ARMC9
+chr12	8052645	8052667	LOC106870419	-	uncharacterized LOC106870419
+chr12	9137832	9137852	LOC106876759	+	DNA-dependent metalloprotease SPRTN
+chr12	9817686	9817733	LOC106876752	+	E3 ubiquitin-protein ligase DCST1
+chr12	9817751	9817776	LOC106876752	+	E3 ubiquitin-protein ligase DCST1
+chr12	11606713	11606767	LOC106872298	-	zwei Ig domain protein zig-8
+chr12	15106495	15106534	LOC106874489	-	uncharacterized LOC106874489
+chr12	23487418	23487442	LOC106873023	-	uncharacterized LOC106873023
+chr12	38243394	38243416	LOC128249197	-	uncharacterized LOC128249197
+chr12	38276262	38276289	LOC106875872	-	40S ribosomal protein S17
+chr12	42364009	42364045	LOC106883812	-	neuropeptide FF receptor 2
+chr12	49045006	49045025	LOC106875368	-	neuronal acetylcholine receptor subunit alpha-10
+chr12	49955573	49955594	LOC106873721	-	mortality factor 4-like protein 1
+chr12	55872239	55872256	LOC106870132	+	WD repeat-containing protein 27
+chr12	56096895	56096916	LOC106884393	-	DNA polymerase eta
+chr12	57910121	57910141	LOC106883606	-	serum response factor-binding protein 1
+chr12	57910121	57910141	LOC106883605	+	dynactin subunit 3
+chr12	68340215	68340246	LOC106883001	-	cationic amino acid transporter 3
+chr13	687884	687923	LOC106871433	-	brain tumor protein
+chr13	6181007	6181031	LOC106869271	-	probable G-protein coupled receptor No18
+chr13	8346129	8346155	LOC106876297	-	uncharacterized LOC106876297
+chr13	10089170	10089193	LOC106875478	-	uncharacterized LOC106875478
+chr13	18142126	18142151	LOC106879251	-	synaptojanin-1
+chr13	20456417	20456432	LOC106871912	+	protocadherin-9
+chr13	26582194	26582214	LOC128249282	+	uncharacterized LOC128249282
+chr13	28780870	28780882	LOC106869322	+	MATH and LRR domain-containing protein PFE0570w-like
+chr13	30643060	30643082	LOC106872093	-	uncharacterized LOC106872093
+chr13	36139650	36139670	LOC106884173	-	inositol hexakisphosphate kinase 1
+chr13	44827023	44827074	LOC106880673	-	nucleoporin p58/p45
+chr13	52198643	52198667	LOC128249296	-	uncharacterized LOC128249296
+chr13	53340458	53340478	LOC106867554	+	tripartite motif-containing protein 2
+chr13	53467723	53467748	LOC128249247	-	uncharacterized LOC128249247
+chr13	53467723	53467748	LOC106867559	+	motile sperm domain-containing protein 2
+chr14	1372299	1372335	LOC128249409	+	uncharacterized LOC128249409
+chr14	3065653	3065678	LOC128249399	+	protocadherin beta-6-like
+chr14	3355771	3355788	LOC106870050	+	putative uncharacterized protein DDB_G0291608
+chr14	3956013	3956035	LOC106870083	+	zinc finger protein 135
+chr14	5718404	5718424	LOC128249452	+	U2 spliceosomal RNA
+chr14	6717228	6717258	LOC106873399	+	uncharacterized LOC106873399
+chr14	10653053	10653101	LOC106874842	-	myelin transcription factor 1
+chr14	12655182	12655214	LOC106868928	+	death-inducer obliterator 1
+chr14	13573292	13573309	LOC106871913	+	uncharacterized LOC106871913
+chr14	16610716	16610736	LOC106881665	-	uncharacterized LOC106881665
+chr14	16732117	16732142	LOC106881672	+	short/branched chain specific acyl-CoA dehydrogenase, mitochondrial
+chr14	22410231	22410252	LOC106884042	-	probable rRNA-processing protein EBP2
+chr14	24683972	24683990	LOC128249446	+	uncharacterized LOC128249446
+chr14	26018348	26018377	LOC106873661	-	uncharacterized LOC106873661
+chr14	26097275	26097332	LOC128249378	+	uncharacterized LOC128249378
+chr14	39364930	39364945	LOC106872391	-	protocadherin beta-15
+chr14	42115784	42115803	LOC128249443	+	uncharacterized LOC128249443
+chr14	42608845	42608866	LOC128249438	+	uncharacterized LOC128249438
+chr14	43683646	43683667	LOC128249437	-	uncharacterized LOC128249437
+chr14	53692122	53692143	LOC106868555	+	fibronectin type 3 and ankyrin repeat domains 1 protein
+chr14	57957914	57957935	LOC106868615	+	attractin-like protein 1
+chr14	58572506	58572528	LOC106868609	-	uncharacterized LOC106868609
+chr14	58840999	58841019	LOC106875540	+	protein glass
+chr14	59238504	59238533	LOC106875549	+	phospholysine phosphohistidine inorganic pyrophosphate phosphatase
+chr14	59298023	59298048	LOC106875543	-	uncharacterized LOC106875543
+chr15	286201	286221	LOC106873739	-	uncharacterized LOC106873739
+chr15	756353	756378	LOC128249489	-	uncharacterized LOC128249489
+chr15	2996573	2996595	LOC106880804	+	plexin-B2
+chr15	4942239	4942262	LOC106874528	+	guanine nucleotide-binding protein G(i) subunit alpha
+chr15	7554797	7554819	LOC106875059	+	synaptotagmin-9
+chr15	14420023	14420039	LOC106873619	-	pseudouridylate synthase 7 homolog
+chr15	20399923	20399950	LOC106869340	-	uncharacterized LOC106869340
+chr15	28143053	28143076	LOC106881060	-	60S ribosomal protein L24
+chr15	28143112	28143139	LOC106881060	-	60S ribosomal protein L24
+chr15	28620611	28620636	LOC106874375	+	tripartite motif-containing protein 59
+chr15	33318300	33318321	LOC106880616	-	uncharacterized LOC106880616
+chr15	35991877	35991896	LOC106879588	+	uncharacterized LOC106879588
+chr15	36514687	36514714	LOC106880269	+	SET and MYND domain-containing protein 4
+chr15	40351067	40351098	LOC106871719	+	anaphase-promoting complex subunit 11
+chr15	40770110	40770131	LOC106873815	-	four-jointed box protein 1
+chr15	40770896	40770927	LOC106873815	-	four-jointed box protein 1
+chr15	44526664	44526687	LOC106878523	+	tetraspanin-36
+chr15	44601866	44601887	LOC106878464	-	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13
+chr15	53332849	53332872	LOC106878167	-	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12
+chr15	57721285	57721305	Trnaf-aaa	-	transfer RNA phenylalanine (anticodon AAA)
+chr15	57722121	57722137	Trnaf-aaa	-	transfer RNA phenylalanine (anticodon AAA)
+chr15	57722465	57722486	Trnaf-aaa	-	transfer RNA phenylalanine (anticodon AAA)
+chr15	58086808	58086827	LOC106882513	+	peroxisomal leader peptide-processing protease
+chr16	4971644	4971669	LOC106875183	+	rRNA 2'-O-methyltransferase fibrillarin-like
+chr16	6059731	6059757	LOC106871265	-	LYR motif-containing protein 9
+chr16	8166195	8166229	LOC128249589	-	uncharacterized LOC128249589
+chr16	8920811	8920837	LOC106884154	-	uncharacterized LOC106884154
+chr16	9855782	9855813	LOC106875949	+	E3 ubiquitin-protein ligase Bre1
+chr16	21681499	21681526	LOC106878849	-	PAN2-PAN3 deadenylation complex subunit Pan3
+chr16	23716320	23716357	LOC106868887	+	mitochondrial 2-oxodicarboxylate carrier
+chr16	29772466	29772485	LOC106867788	-	sorting nexin-5
+chr16	38484209	38484230	LOC128249622	+	uncharacterized LOC128249622
+chr16	50011243	50011277	LOC106875868	+	copper chaperone for superoxide dismutase
+chr16	50012014	50012041	LOC106875867	-	zinc finger CCHC domain-containing protein 7
+chr16	51338448	51338469	LOC106876912	+	fos-related antigen 2
+chr16	52551298	52551328	LOC106870456	+	serine/threonine-protein phosphatase PGAM5, mitochondrial
+chr17	387576	387594	LOC106869325	-	alanine aminotransferase 2
+chr17	5007495	5007528	LOC106879633	-	cytochrome c oxidase assembly factor 3, mitochondrial
+chr17	5009040	5009058	LOC106879633	-	cytochrome c oxidase assembly factor 3, mitochondrial
+chr17	5009084	5009111	LOC106879633	-	cytochrome c oxidase assembly factor 3, mitochondrial
+chr17	5461373	5461392	LOC106868962	+	ADP-ribosylation factor-like protein 16
+chr17	6777046	6777070	LOC106872488	+	A disintegrin and metalloproteinase with thrombospondin motifs 13
+chr17	6831872	6831896	LOC106872487	+	NACHT and WD repeat domain-containing protein 2
+chr17	7885303	7885366	LOC106874037	+	BTB/POZ domain-containing protein 2
+chr17	8086523	8086555	LOC106876910	-	formin-E
+chr17	10345757	10345778	LOC128249672	+	uncharacterized LOC128249672
+chr17	19542660	19542681	LOC106877369	-	adenylate kinase isoenzyme 6
+chr17	19586822	19586875	LOC128249680	-	uncharacterized LOC128249680
+chr17	20400893	20400912	LOC128249668	+	uncharacterized LOC128249668
+chr17	22413506	22413545	LOC106876817	+	homeotic protein ultrabithorax
+chr17	27058160	27058186	LOC106878481	+	DNA topoisomerase 2-binding protein 1
+chr17	29008708	29008730	LOC106880609	+	uncharacterized LOC106880609
+chr17	41021627	41021648	LOC128249664	-	uncharacterized LOC128249664
+chr17	44042801	44042826	LOC106878391	+	heat shock cognate 71 kDa protein
+chr17	44042874	44042895	LOC106878391	+	heat shock cognate 71 kDa protein
+chr17	44243972	44243997	LOC106878341	-	fas apoptotic inhibitory molecule 1
+chr17	44243972	44243997	LOC106878313	+	uncharacterized LOC106878313
+chr17	50351794	50351821	LOC106881590	+	proliferation-associated protein 2G4
+chr17	50985162	50985187	LOC106874801	-	bifunctional purine biosynthesis protein ATIC
+chr17	52633357	52633378	LOC106872216	-	putative uncharacterized protein DDB_G0277255
+chr17	52698665	52698690	LOC128249676	+	lysosomal alpha-glucosidase-like
+chr18	828945	828988	LOC106874270	-	myosin catalytic light chain LC-1, mantle muscle
+chr18	952036	952062	LOC106874271	+	sideroflexin-5
+chr18	1176423	1176438	LOC106881490	+	homeotic protein empty spiracles
+chr18	2223823	2223848	LOC128249890	-	uncharacterized LOC128249890
+chr18	3269748	3269769	LOC106872830	-	protein misato homolog 1
+chr18	7272901	7272924	LOC128249961	-	5S ribosomal RNA
+chr18	10870779	10870801	LOC106879111	-	disintegrin and metalloproteinase domain-containing protein 10
+chr18	11064777	11064804	LOC106879110	-	uncharacterized LOC106879110
+chr18	11402659	11402665	LOC106881058	-	exosome complex component RRP40
+chr18	12290554	12290578	LOC106868661	-	RYamide receptor
+chr18	17368556	17368583	LOC128249922	+	uncharacterized LOC128249922
+chr18	18518697	18518750	LOC106878906	+	ribose-5-phosphate isomerase
+chr18	18751713	18751736	LOC106869614	+	nucleolar complex protein 3 homolog
+chr18	19029958	19029991	LOC106869609	+	mucin-5AC
+chr18	27625180	27625209	LOC106876435	+	signal recognition particle 19 kDa protein
+chr18	27678014	27678033	LOC106876446	-	uncharacterized LOC106876446
+chr18	27678261	27678280	LOC106876446	-	uncharacterized LOC106876446
+chr18	29702828	29702855	LOC128249879	-	uncharacterized LOC128249879
+chr18	35944070	35944120	LOC106873221	-	methionyl-tRNA formyltransferase, mitochondrial
+chr18	36040756	36040800	LOC106876819	-	uncharacterized LOC106876819
+chr18	40600307	40600329	LOC106876979	-	Fanconi anemia core complex-associated protein 24
+chr18	45898940	45898963	LOC106878419	+	dual specificity protein phosphatase 4
+chr18	47200813	47200832	LOC106873192	-	unconventional myosin-Va
+chr18	50276028	50276045	LOC128249861	+	uncharacterized LOC128249861
+chr18	52937897	52937926	LOC106873581	-	probable G-protein coupled receptor No18
+chr18	54214204	54214221	LOC106882940	-	actin-related protein 10
+chr18	54242452	54242475	LOC106882939	-	MMS19 nucleotide excision repair protein homolog
+chr18	55302651	55302666	LOC106881041	+	ras-related protein Rab-11B
+chr19	2978094	2978112	LOC106876686	+	trimethylguanosine synthase
+chr19	2981181	2981204	LOC106876687	-	metallo-beta-lactamase domain-containing protein 1
+chr19	3964004	3964023	LOC106884053	+	anoctamin-4
+chr19	5312608	5312627	LOC106869436	+	uncharacterized LOC106869436
+chr19	6226343	6226367	LOC106878486	-	uncharacterized LOC106878486
+chr19	8871653	8871683	LOC106884168	-	uncharacterized LOC106884168
+chr19	22520009	22520030	LOC128250191	-	U6 spliceosomal RNA
+chr19	23881313	23881337	LOC106873097	+	uncharacterized LOC106873097
+chr19	30086212	30086241	LOC106877872	+	uncharacterized LOC106877872
+chr19	32153456	32153500	LOC106873714	+	general transcription factor II-I repeat domain-containing protein 2-like
+chr19	46116103	46116129	LOC128250173	+	U2 spliceosomal RNA
+chr19	47144433	47144457	LOC106877820	+	monocarboxylate transporter 10
+chr19	47751001	47751024	LOC106877015	-	kazrin
+chr19	50036971	50036994	LOC106884116	+	KH domain-containing RNA-binding protein qki.L
+chr19	52084511	52084539	LOC106878180	+	uncharacterized LOC106878180
+chr19	52364220	52364240	LOC106878181	+	VWFA and cache domain-containing protein 1-like
+chr19	53651157	53651189	LOC106875423	+	monocarboxylate transporter 13
+chr20	945630	945653	LOC106867611	-	coiled-coil domain-containing protein 102A
+chr20	1182917	1182948	LOC106877550	+	zinc finger protein 236
+chr20	1904144	1904171	LOC106873090	-	polyunsaturated fatty acid 5-lipoxygenase
+chr20	7560877	7560896	LOC106869841	-	glutathione hydrolase 1 proenzyme
+chr20	7846133	7846155	LOC106869847	-	zinc finger protein 511
+chr20	7846325	7846340	LOC106869847	-	zinc finger protein 511
+chr20	9507929	9507953	LOC106874762	+	gamma-tubulin complex component 6
+chr20	9703432	9703449	LOC106882983	+	NAD-dependent protein deacylase
+chr20	9972333	9972352	LOC106882980	+	uncharacterized LOC106882980
+chr20	11070649	11070671	LOC128250351	-	probable E3 ubiquitin-protein ligase bre1
+chr20	11353213	11353240	Trnan-guu	-	transfer RNA asparagine (anticodon GUU)
+chr20	14180938	14180983	LOC106883426	-	uncharacterized LOC106883426
+chr20	15575646	15575668	LOC128250353	-	uncharacterized transporter slc-17.2-like
+chr20	17789427	17789448	LOC106883421	-	ankyrin repeat and SOCS box protein 8
+chr20	19141111	19141138	LOC106871231	+	uncharacterized LOC106871231
+chr20	23436049	23436084	LOC106879441	-	uncharacterized LOC106879441
+chr20	23437383	23437404	LOC106879441	-	uncharacterized LOC106879441
+chr20	23437622	23437643	LOC106879441	-	uncharacterized LOC106879441
+chr20	23647337	23647364	LOC106879454	+	oocyte zinc finger protein XlCOF19
+chr20	26362994	26363016	LOC106871777	-	histone H2A-like
+chr20	26407800	26407825	LOC106871775	-	N-alpha-acetyltransferase 50
+chr20	37652915	37652938	LOC106875460	+	neuralized-like protein 2
+chr20	37654596	37654615	LOC106875457	-	nucleoporin SEH1
+chr20	39039950	39039979	LOC106873878	+	uncharacterized LOC106873878
+chr20	39641841	39641865	LOC128250385	-	5S ribosomal RNA
+chr20	41399637	41399664	LOC106876589	-	short-chain collagen C4
+chr20	41546273	41546310	LOC106875573	+	eukaryotic translation initiation factor 2 subunit 2
+chr20	42384585	42384606	LOC106881681	+	uncharacterized LOC106881681
+chr20	45854842	45854868	LOC106881225	+	ATP-binding cassette subfamily G member 4
+chr21	551491	551512	LOC106867296	+	vacuolar protein sorting-associated protein 8 homolog
+chr21	1124744	1124773	LOC106878661	+	uncharacterized LOC106878661
+chr21	1406644	1406670	LOC106880280	-	E3 ubiquitin-protein ligase listerin
+chr21	1800069	1800091	LOC106877792	+	palmitoyltransferase ZDHHC12-B
+chr21	3687919	3687955	LOC106874408	-	large proline-rich protein BAG6
+chr21	5802273	5802309	LOC106871942	-	rhomboid-related protein 3
+chr21	8810940	8810967	LOC106875616	-	uncharacterized LOC106875616
+chr21	8810940	8810967	LOC106875617	+	calcium channel flower homolog
+chr21	16344611	16344638	LOC106879688	-	uncharacterized LOC106879688
+chr21	29415265	29415299	LOC128250489	-	U6 spliceosomal RNA
+chr21	36841915	36841936	LOC106884118	-	octopamine receptor beta-2R
+chr21	37189960	37189998	LOC106868788	+	UBX domain-containing protein 11
+chr21	37803395	37803414	LOC128250483	+	zinc finger protein 675-like
+chr21	37891258	37891285	LOC106879528	-	zinc finger protein 91
+chr22	370189	370211	LOC106878718	+	uncharacterized LOC106878718
+chr22	732865	732890	LOC106878716	-	transcription factor COE1
+chr22	732865	732890	LOC128250534	+	uncharacterized LOC128250534
+chr22	3844679	3844722	LOC106867737	+	PR domain zinc finger protein 12
+chr22	7543606	7543629	LOC106869928	-	homeobox protein ceh-1
+chr22	8014227	8014252	LOC106869973	+	uncharacterized LOC106869973
+chr22	9796603	9796629	LOC106871401	-	homeobox protein HMX3-like
+chr22	10650663	10650680	LOC106873056	+	HEAT repeat-containing protein 4
+chr22	15557168	15557193	LOC106873049	+	BTB/POZ domain-containing protein 17
+chr22	15557202	15557257	LOC106873049	+	BTB/POZ domain-containing protein 17
+chr22	19458120	19458141	LOC106883867	+	endoplasmic reticulum-Golgi intermediate compartment protein 1
+chr22	20437856	20437892	LOC106870915	-	uncharacterized LOC106870915
+chr22	27905906	27905933	LOC128250528	-	uncharacterized LOC128250528
+chr22	31609628	31609648	LOC106883172	-	uncharacterized LOC106883172
+chr22	37099951	37099970	LOC106877121	-	26S proteasome non-ATPase regulatory subunit 4
+chr22	37291849	37291872	LOC106879139	-	U7 snRNA-associated Sm-like protein LSm11
+chr22	37301919	37301942	LOC128250540	+	uncharacterized LOC128250540
+chr23	12364856	12364880	LOC128250603	+	uncharacterized LOC128250603
+chr23	22039880	22039906	LOC106877257	-	KICSTOR complex protein ITFG2
+chr23	26095282	26095305	LOC106876598	-	RNA-binding protein 8A
+chr23	26575601	26575632	LOC106874484	+	bystin
+chr23	31349695	31349734	LOC106870407	+	venom phosphodiesterase 2
+chr23	33032192	33032211	LOC106876954	-	uncharacterized LOC106876954
+chr23	33433839	33433845	LOC106875496	+	uncharacterized LOC106875496
+chr23	33876294	33876314	Trnav-aac	-	transfer RNA valine (anticodon AAC)
+chr23	34220748	34220773	LOC106871209	+	uncharacterized LOC106871209
+chr23	34220814	34220837	LOC106871209	+	uncharacterized LOC106871209
+chr23	36915194	36915215	LOC106869019	-	uncharacterized LOC106869019
+chr23	36915194	36915215	LOC106869007	+	phospholipid hydroperoxide glutathione peroxidase-like
+chr24	1571766	1571793	LOC106870762	+	extracellular superoxide dismutase [Cu-Zn]
+chr24	1571823	1571842	LOC106870762	+	extracellular superoxide dismutase [Cu-Zn]
+chr24	1963846	1963878	LOC106875892	+	uncharacterized LOC106875892
+chr24	2137077	2137113	LOC106883397	-	TBC1 domain family member 25
+chr24	8330307	8330329	LOC128250728	-	zinc finger protein 271-like
+chr24	9995345	9995367	LOC106873361	+	carboxypeptidase E
+chr24	12709012	12709044	LOC106882434	-	MAP kinase-activated protein kinase 2
+chr24	15471879	15471901	LOC106882232	+	proteasome subunit beta type-7
+chr24	19828984	19829007	LOC106882263	+	double-strand break repair protein MRE11
+chr24	20157330	20157351	LOC106882261	-	coiled-coil domain-containing protein 73
+chr24	21919175	21919194	LOC106880221	-	ubiquitin domain-containing protein UBFD1
+chr24	23380347	23380366	LOC106872984	-	coactosin-like protein
+chr24	30218271	30218293	LOC106877113	-	succinyl-CoA:3-ketoacid coenzyme A transferase 1, mitochondrial-like
+chr24	30221356	30221380	LOC106877111	+	uncharacterized LOC106877111
+chr24	32080321	32080341	LOC106884288	-	serine/threonine-protein phosphatase 2A regulatory subunit B'' subunit beta
+chr24	33167151	33167175	LOC106873883	+	uncharacterized LOC106873883
+chr24	33349233	33349266	LOC106873831	-	ubiquitin-conjugating enzyme E2 H
+chr24	34030740	34030761	LOC106882094	-	integumentary mucin C.1-like
+chr24	35602584	35602605	LOC128250704	+	uncharacterized LOC128250704
+chr24	35688676	35688695	LOC128250684	-	location of vulva defective 1-like
+chr24	35852399	35852420	LOC106876790	+	probable ATP-dependent RNA helicase DDX43
+chr24	35929777	35929799	LOC106875001	-	exportin-2
+chr24	36081723	36081754	LOC106874999	+	glutathione peroxidase-like
+chr25	487359	487383	LOC106869553	+	A-kinase anchor protein 10, mitochondrial
+chr25	741461	741477	LOC106871371	-	tRNA (uracil-5-)-methyltransferase homolog A
+chr25	757299	757319	LOC106871369	-	N-lysine methyltransferase SETD6
+chr25	816817	816838	LOC106871372	+	mitochondrial sodium/calcium exchanger protein
+chr25	1184259	1184281	LOC106876049	-	nuclear pore complex protein Nup50
+chr25	1545664	1545701	LOC106876052	-	P2X purinoceptor 4
+chr25	3183255	3183281	LOC106875585	-	uncharacterized LOC106875585
+chr25	5381935	5381958	LOC106880033	+	NADH-cytochrome b5 reductase 3
+chr25	5470968	5470994	LOC106880035	+	uncharacterized LOC106880035
+chr25	5689888	5689931	LOC106879254	+	uncharacterized LOC106879254
+chr25	6997102	6997147	LOC106875050	-	pescadillo homolog
+chr25	6998462	6998489	LOC106875050	-	pescadillo homolog
+chr25	7702432	7702462	LOC106881792	-	uncharacterized LOC106881792
+chr25	25861972	25861997	LOC106878844	-	SMC5-SMC6 complex localization factor protein 1
+chr25	28717567	28717594	LOC106874894	-	zinc finger protein OZF
+chr25	28734710	28734733	LOC128250797	-	uncharacterized LOC128250797
+chr25	28734710	28734733	LOC106874892	+	uncharacterized LOC106874892
+chr25	33286115	33286137	LOC106869078	+	inositol polyphosphate 5-phosphatase K
+chr25	33336279	33336295	LOC106869074	+	spermidine synthase
+chr25	33406965	33406987	LOC106869070	+	PC-esterase domain-containing protein 1B-like
+chr25	33556307	33556334	LOC128250760	+	uncharacterized LOC128250760
+chr25	33842144	33842169	LOC106869086	+	potassium voltage-gated channel subfamily C member 1
+chr25	34787669	34787688	LOC128250763	-	uncharacterized LOC128250763
+chr25	34809193	34809214	LOC106869065	-	Golgi SNAP receptor complex member 1
+chr25	35229853	35229874	LOC106867938	-	mast cell protease 2
+chr25	35282783	35282793	LOC106872874	+	putative deoxyribonuclease TATDN3
+chr25	35336847	35336870	LOC106872872	+	melanotransferrin
+chr26	2096565	2096582	Trnat-ugu	+	transfer RNA threonine (anticodon UGU)
+chr26	2116687	2116715	LOC106883979	+	uncharacterized LOC106883979
+chr26	2312727	2312749	LOC106880589	-	uncharacterized LOC106880589
+chr26	2726221	2726247	LOC128250902	-	cytochrome P450 3A9-like
+chr26	2911675	2911700	LOC106879338	+	cytochrome P450 3A21
+chr26	2912974	2912993	LOC106879338	+	cytochrome P450 3A21
+chr26	7535398	7535431	LOC106878631	+	uncharacterized LOC106878631
+chr26	11196640	11196669	LOC106874850	-	N-alpha-acetyltransferase 38, NatC auxiliary subunit
+chr26	13088120	13088140	LOC106872588	+	protein FAM83A
+chr26	13676725	13676747	LOC106880150	+	GRB10-interacting GYF protein 2-like
+chr26	13726579	13726617	LOC106880202	-	fumarate hydratase class I, aerobic-like
+chr26	21802270	21802296	LOC106880672	-	protein phosphatase 1E
+chr26	22653623	22653650	LOC106876512	+	uncharacterized LOC106876512
+chr26	23511019	23511043	LOC106871979	+	39S ribosomal protein L44, mitochondrial
+chr26	25472996	25473023	LOC106871850	-	uncharacterized LOC106871850
+chr26	25474532	25474566	LOC106871850	-	uncharacterized LOC106871850
+chr26	26370423	26370446	LOC106882121	+	uncharacterized LOC106882121
+chr27	3232566	3232592	LOC106873120	+	vacuolar-sorting protein SNF8
+chr27	4023074	4023103	LOC106879172	+	little elongation complex subunit 2
+chr27	4158318	4158339	LOC106874872	+	leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 3
+chr27	4308553	4308582	LOC106868880	+	SCO-spondin
+chr27	6954955	6954989	LOC106868988	+	uncharacterized LOC106868988
+chr27	7202378	7202395	LOC106868987	-	probable C-mannosyltransferase DPY19L3
+chr27	7842352	7842379	LOC106881252	-	aquaporin-11
+chr27	8608800	8608818	LOC106868911	-	uncharacterized LOC106868911
+chr27	12834951	12835044	LOC106881776	+	anaphase-promoting complex subunit 5
+chr27	14208022	14208046	Trnak-uuu	-	transfer RNA lysine (anticodon UUU)
+chr27	14320101	14320122	LOC106878773	+	zinc finger protein 665
+chr27	16335384	16335409	LOC106872531	-	sodium/potassium/calcium exchanger 4
+chr27	18675294	18675305	LOC106883793	-	rho GTPase-activating protein 1
+chr27	19231927	19231955	LOC106876811	+	thyroid transcription factor 1
+chr27	20388864	20388888	LOC106867729	+	zinc finger protein 62
+chr29	559221	559243	LOC106880330	+	zinc finger protein 271
+chr29	980885	980924	LOC106877982	-	zinc finger protein 253-like
+chr29	980885	980924	LOC128251247	-	zinc finger protein 239-like
+chr29	980885	980924	LOC106877986	+	histone H4
+chr29	1749214	1749241	LOC106869542	+	uncharacterized LOC106869542
+chr29	3492563	3492584	LOC106879416	-	uncharacterized LOC106879416
+chr29	3852390	3852410	LOC106867482	+	uncharacterized LOC106867482
+chr29	4179226	4179301	LOC106876278	-	uncharacterized LOC106876278
+chr29	7212307	7212332	Trnad-guc	+	transfer RNA aspartic acid (anticodon GUC)
+chr29	8081394	8081417	LOC106872354	+	myosin heavy chain, striated muscle
+chr29	10289645	10289676	LOC106882791	-	uncharacterized LOC106882791
+chr29	11482979	11483000	LOC106868082	+	uncharacterized LOC106868082
+chr29	11751491	11751511	LOC106874691	+	uncharacterized LOC106874691
+chr30	862273	862292	LOC106876262	-	leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 3
+chr30	863626	863646	LOC106876262	-	leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 3
+chr30	1344370	1344403	LOC128251297	+	uncharacterized LOC128251297
+chr30	2432084	2432103	LOC106879945	+	uncharacterized LOC106879945
+chr30	2659518	2659539	LOC106878592	-	G-protein coupled receptor 143
+chr30	2659518	2659539	LOC106869059	+	uncharacterized LOC106869059
+chr30	2659602	2659622	LOC106878592	-	G-protein coupled receptor 143
+chr30	2659602	2659622	LOC106869059	+	uncharacterized LOC106869059
+chr30	2801754	2801789	Trnas-uga	+	transfer RNA serine (anticodon UGA)
+chr30	2815110	2815143	LOC106879817	+	retinal-binding protein
+chr30	3017749	3017770	LOC106883926	-	uncharacterized LOC106883926
+chr30	4919837	4919858	LOC106871513	-	leucine-zipper-like transcriptional regulator 1
+chr30	5282190	5282213	LOC106876521	+	E3 ubiquitin-protein ligase MIB2
+chr30	5702280	5702307	LOC106884333	-	TBCC domain-containing protein 1
+chr30	5864323	5864366	LOC128251295	-	uncharacterized LOC128251295
+chr30	6929940	6929962	LOC106867646	+	NF-kappa-B inhibitor-interacting Ras-like protein 2
+chr30	8036368	8036398	LOC106878264	+	dCTP pyrophosphatase 1
+chr30	8487661	8487701	LOC106874209	+	zinc finger protein 665
+chr30	8923737	8923818	LOC106881635	-	mucin-6-like
+chr30	8923737	8923818	LOC106881868	+	inactive peptidyl-prolyl cis-trans isomerase FKBP6
+chr30	8923827	8923850	LOC106881635	-	mucin-6-like
+chr30	8923827	8923850	LOC106881868	+	inactive peptidyl-prolyl cis-trans isomerase FKBP6
+chr30	9019264	9019288	LOC106879204	+	F-box only protein 8
+chr30	9346145	9346184	LOC106869788	+	uncharacterized LOC106869788
+chr30	9739733	9739767	LOC106875556	+	uncharacterized LOC106875556
+chr30	9739893	9739932	LOC106875556	+	uncharacterized LOC106875556

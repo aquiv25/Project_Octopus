@@ -1,0 +1,614 @@
+(Lyso)-N-acylphosphatidylethanolamine lipase%2C transcript variant X4
+2-aminoethanethiol dioxygenase
+2-hydroxyacylsphingosine 1-beta-galactosyltransferase%2C transcript variant X2
+26S proteasome non-ATPase regulatory subunit 13
+28S ribosomal protein S27%2C mitochondrial
+39S ribosomal protein L44%2C mitochondrial
+39S ribosomal protein L52%2C mitochondrial
+5'-AMP-activated protein kinase catalytic subunit alpha-2
+5-hydroxytryptamine receptor 6
+60 kDa neurofilament protein
+60S ribosomal protein L4-A
+ABC transporter F family member 4-like
+ADAMTS-like protein 2
+AP-2 complex subunit mu
+AP-4 complex accessory subunit Tepsin
+ARF GTPase-activating protein GIT1
+ATP synthase subunit beta%2C mitochondrial
+ATP-binding cassette sub-family B member 6%2C transcript variant X1
+ATP-dependent DNA helicase DDX11
+ATP-dependent RNA helicase DHX33-like
+C-type lectin TsL
+CD109 antigen
+CDC42 small effector protein 2
+COP9 signalosome complex subunit 4
+CUE domain-containing protein 2-B
+D-3-phosphoglycerate dehydrogenase%2C transcript variant X2
+DBH-like monooxygenase protein 1
+DCC-interacting protein 13-alpha
+DDB1- and CUL4-associated factor 10 homolog
+DNA polymerase lambda
+DNA-directed RNA polymerase II subunit RPB1
+DNA-directed RNA polymerase III subunit RPC8
+E3 ubiquitin-protein ligase COP1
+E3 ubiquitin-protein ligase MARCHF2
+E3 ubiquitin-protein ligase SH3RF3%2C transcript variant X3
+E3 ubiquitin-protein ligase TRAF7%2C transcript variant X2
+E3 ubiquitin-protein ligase synoviolin B
+EF-hand calcium-binding domain-containing protein 7
+ELKS/Rab6-interacting/CAST family member 1%2C transcript variant X1
+ELMO domain-containing protein 2
+ETS-related transcription factor Elf-1
+F-actin-capping protein subunit alpha-2
+Fanconi anemia group M protein
+G-protein coupled receptor-associated protein LMBRD2
+GATA zinc finger domain-containing protein 16%2C transcript variant X2
+GDP-mannose 4%2C6 dehydratase
+GMP synthase [glutamine-hydrolyzing]-like
+GPI mannosyltransferase 3
+GTP-binding protein 1%2C transcript variant X1
+H/ACA ribonucleoprotein complex subunit 1
+Ig-like V-type domain-containing protein FAM187A
+LDLR chaperone boca
+LIM domain kinase 2
+LIM domain only protein 3
+LIM/homeobox protein Lhx3
+MAP3K12-binding inhibitory protein 1
+MRN complex-interacting protein
+N-acetylgalactosaminyltransferase 7%2C transcript variant X2
+N-alpha-acetyltransferase 20
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 4%2C transcript variant X2
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 7
+NADH dehydrogenase [ubiquinone] flavoprotein 2%2C mitochondrial
+NGFI-A-binding protein 1%2C transcript variant X4
+PDZ and LIM domain protein Zasp%2C transcript variant X2
+PITH domain-containing protein CG6153
+POU domain protein 2%2C transcript variant X5
+QRFP-like peptide receptor%2C transcript variant X2
+RING-box protein 2-like%2C transcript variant X1
+RNA polymerase-associated protein CTR9 homolog
+RNA-binding protein 41
+RNA-binding protein Pasilla
+RNA-binding protein cabeza
+RUN domain-containing protein 3B
+S-crystallin SL20-1
+SAFB-like transcription modulator
+SH3 domain-binding protein 5-like
+SKI8 subunit of superkiller complex protein%2C transcript variant X3
+SNF-related serine/threonine-protein kinase
+START domain-containing protein 10-like%2C transcript variant X2
+SUN domain-containing ossification factor%2C transcript variant X1
+SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1%2C transcript variant X3
+T-box transcription factor T homolog 1
+TLC domain-containing protein 4-B
+U6 snRNA-associated Sm-like protein LSm4
+U6 snRNA-associated Sm-like protein LSm8%2C transcript variant X1
+U7 snRNA-associated Sm-like protein LSm11
+VPS10 domain-containing receptor SorCS3
+WD repeat-containing protein 18
+abasic site processing protein HMCES
+abnormal spindle-like microcephaly-associated protein homolog
+acetylcholine receptor subunit alpha-type acr-16
+acidic amino acid decarboxylase GADL1
+aconitate hydratase%2C mitochondrial
+actin-related protein 3
+activating transcription factor 7-interacting protein 1%2C transcript variant X8
+acyl-coenzyme A diphosphatase NUDT19
+adenylate kinase 8
+aldehyde dehydrogenase family 3 member A2
+all trans-polyprenyl-diphosphate synthase PDSS2%2C transcript variant X9
+anaphase-promoting complex subunit 15%2C transcript variant X4
+ankyrin repeat and death domain-containing protein 1A%2C transcript variant X2
+ankyrin repeat domain-containing protein 46
+ankyrin repeat%2C SAM and basic leucine zipper domain-containing protein 1
+ankyrin-1%2C transcript variant X1
+anoctamin-8%2C transcript variant X1
+aquaporin-10-like
+argininosuccinate lyase
+ataxin-1%2C transcript variant X3
+atrial natriuretic peptide receptor 1
+atrial natriuretic peptide-converting enzyme
+autism susceptibility gene 2 protein homolog
+baculoviral IAP repeat-containing protein 6%2C transcript variant X1
+band 7 protein AGAP004871
+beclin-1
+beta-1%2C3-galactosyltransferase 1
+beta-1%2C4-galactosyltransferase galt-1%2C transcript variant X2
+beta-sarcoglycan
+bifunctional protein GlmU%2C transcript variant X4
+brefeldin A-inhibited guanine nucleotide-exchange protein 3
+bridge-like lipid transfer protein family member 1%2C transcript variant X7
+cAMP-dependent protein kinase type II regulatory subunit%2C transcript variant X2
+cGMP-dependent protein kinase 1%2C transcript variant X3
+cGMP-specific 3'%2C5'-cyclic phosphodiesterase
+calcitonin gene-related peptide type 1 receptor%2C transcript variant X3
+calexcitin-1
+calmodulin-beta
+calmodulin-beta%2C transcript variant X1
+carbohydrate sulfotransferase 11
+cardioacceleratory peptide receptor%2C transcript variant X4
+caspase-3%2C transcript variant X1
+cathepsin B%2C transcript variant X1
+cell division control protein 42 homolog
+centromere protein H%2C transcript variant X1
+centrosomal protein of 63 kDa-like
+cerebellar degeneration-related protein 2-like%2C transcript variant X2
+charged multivesicular body protein 5-like
+cholesterol 7-desaturase nvd
+cholinesterase 2%2C transcript variant X3
+chondroitin sulfate synthase 2
+chymotrypsin-1
+chymotrypsin-like elastase family member 2A
+cilia- and flagella-associated protein 410%2C transcript variant X2
+cilia- and flagella-associated protein 418
+cilia- and flagella-associated protein 54-like%2C transcript variant X2
+cilia- and flagella-associated protein 57
+cilia- and flagella-associated protein 57-like
+circadian locomoter output cycles protein kaput-like
+cis-aconitate decarboxylase%2C transcript variant X2
+citramalyl-CoA lyase%2C mitochondrial%2C transcript variant X2
+clavesin-2%2C transcript variant X5
+clustered mitochondria protein homolog
+coactosin-like protein
+coatomer subunit beta
+cohesin subunit SA-1%2C transcript variant X4
+coiled-coil domain-containing protein 102A
+coiled-coil domain-containing protein 105
+coiled-coil domain-containing protein 113
+coiled-coil domain-containing protein 181%2C transcript variant X2
+coiled-coil domain-containing protein 85C-A
+collagen alpha-1(XII) chain
+collagen alpha-1(XXI) chain
+collagen alpha-2(IV) chain
+conserved oligomeric Golgi complex subunit 1
+constitutive coactivator of PPAR-gamma-like protein 1
+copine-8
+copper-transporting ATPase 1%2C transcript variant X2
+cornifelin homolog
+coronin-1C-A%2C transcript variant X1
+craniofacial development protein 2-like
+cubilin
+cyclin-dependent kinase 2%2C transcript variant X3
+cysteine-rich with EGF-like domain protein 2%2C transcript variant X1
+cytochrome P450 2B4
+cytochrome P450 3A30%2C transcript variant X1
+cytochrome c
+cytoplasmic aconitate hydratase%2C transcript variant X2
+dTDP-glucose 4%2C6-dehydratase%2C transcript variant X1
+deoxyribonuclease TATDN1%2C transcript variant X1
+dickkopf-related protein 3
+dipeptidase 1
+dnaJ homolog subfamily C member 22%2C transcript variant X2
+doublecortin domain-containing protein 2%2C transcript variant X1
+dynein axonemal heavy chain 2
+dynein axonemal heavy chain 5
+dynein beta chain%2C ciliary
+elongation factor Tu%2C mitochondrial
+elongator complex protein 6
+elongin-C%2C transcript variant X1
+enhancer of mRNA-decapping protein 3%2C transcript variant X2
+enolase 4
+ensconsin%2C transcript variant X11
+ephrin type-A receptor 4-B
+ephrin type-A receptor 4a%2C transcript variant X3
+ephrin type-B receptor 2
+eukaryotic translation initiation factor 3 subunit A
+exportin-7%2C transcript variant X1
+far upstream element-binding protein 1%2C transcript variant X2
+ferroxidase HEPHL1
+folylpolyglutamate synthase%2C mitochondrial
+formin-binding protein 4
+fringe glycosyltransferase
+fumarylacetoacetase-like
+gastric triacylglycerol lipase
+gastrula zinc finger protein XlCGF57.1
+general transcription factor 3C polypeptide 4%2C transcript variant X1
+general transcription factor II-I repeat domain-containing protein 2B
+glucose-6-phosphate 1-dehydrogenase%2C transcript variant X2
+glutamate-rich protein 2-like%2C transcript variant X1
+glutamic acid-rich protein
+glutathione S-transferase Mu 2
+glutathione S-transferase omega-1
+glutathione peroxidase 7
+glycerol-3-phosphate dehydrogenase [NAD(+)]%2C cytoplasmic
+glycerophosphocholine cholinephosphodiesterase ENPP6
+glyoxal reductase%2C transcript variant X1
+glyoxalase domain-containing protein 4
+glyoxylate reductase/hydroxypyruvate reductase
+glyoxylate reductase/hydroxypyruvate reductase%2C transcript variant X2
+growth factor receptor-bound protein 2
+guanine nucleotide exchange factor subunit RIC1%2C transcript variant X1
+guanine nucleotide-binding protein G(i) subunit alpha
+hairy/enhancer-of-split related with YRPW motif protein 1
+helicase POLQ-like
+heme transporter hrg1-A%2C transcript variant X1
+heterogeneous nuclear ribonucleoprotein L%2C transcript variant X6
+high affinity cAMP-specific and IBMX-insensitive 3'%2C5'-cyclic phosphodiesterase 8B
+histone H2A
+histone H4
+histone-lysine N-methyltransferase SETMAR-like
+homeobox protein Hox-B1
+hornerin%2C transcript variant X2
+hydroxyacylglutathione hydrolase%2C mitochondrial%2C transcript variant X2
+inactive hydroxysteroid dehydrogenase-like protein 1
+inactive tyrosine-protein kinase transmembrane receptor ROR1
+inner nuclear membrane protein Man1
+innexin unc-9%2C transcript variant X2
+inositol monophosphatase 3
+interferon regulatory factor 2%2C transcript variant X7
+interleukin 17-like protein
+intraflagellar transport protein 81 homolog%2C transcript variant X1
+inverted formin-2%2C transcript variant X2
+josephin-1%2C transcript variant X4
+kelch-like protein 9
+kinesin-like protein KIF6
+leucine--tRNA ligase%2C mitochondrial%2C transcript variant X3
+leucine-rich repeat-containing protein 71%2C transcript variant X3
+leukocyte receptor cluster member 1 homolog
+leukocyte receptor cluster member 8 homolog%2C transcript variant X2
+lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex%2C mitochondrial%2C transcript variant X1
+liver carboxylesterase 1F
+long-chain-fatty-acid--CoA ligase 4%2C transcript variant X3
+low-density lipoprotein receptor-related protein 6
+lysine-specific histone demethylase 2%2C transcript variant X3
+lysyl oxidase homolog 4
+major facilitator superfamily domain-containing protein 6
+malonyl-CoA-acyl carrier protein transacylase%2C mitochondrial%2C transcript variant X1
+mannosyl-oligosaccharide 1%2C2-alpha-mannosidase IA
+matrix metalloproteinase-2
+matrix metalloproteinase-21
+melatonin receptor type 1B-B
+membrane progestin receptor gamma%2C transcript variant X3
+metallo-beta-lactamase domain-containing protein 1%2C transcript variant X2
+metaxin-2
+methionine-R-sulfoxide reductase B3%2C mitochondrial%2C transcript variant X1
+methyl-CpG-binding domain protein 4
+methylthioribulose-1-phosphate dehydratase%2C transcript variant X2
+microtubule-associated protein RP/EB family member 2
+mitochondrial fission regulator 2%2C transcript variant X2
+mitochondrial import inner membrane translocase subunit Tim17-B
+mitochondrial potassium channel ATP-binding subunit
+mitochondrial tRNA methylthiotransferase CDK5RAP1%2C transcript variant X3
+mitotic-spindle organizing protein 1
+mothers against decapentaplegic homolog 5%2C transcript variant X1
+mucin-17%2C transcript variant X2
+mucin-2-like
+mucin-3A
+mucolipin-3%2C transcript variant X1
+mucosa-associated lymphoid tissue lymphoma translocation protein 1
+multidrug resistance-associated protein 1%2C transcript variant X2
+myb/SANT-like DNA-binding domain-containing protein 2%2C transcript variant X3
+myosin-G heavy chain
+myotrophin
+myotubularin-related protein 3
+neurogenic locus notch homolog protein 1
+neurogenic protein mastermind
+neuronal acetylcholine receptor subunit alpha-9
+nicotinate phosphoribosyltransferase
+nitric oxide-associated protein 1
+nuclear pore complex protein Nup107%2C transcript variant X2
+nuclear pore complex protein Nup205
+nuclear pore complex protein Nup54
+nucleoporin SEH1
+nucleoredoxin
+opioid growth factor receptor%2C transcript variant X6
+opioid-binding protein/cell adhesion molecule homolog
+organic anion transporter 3%2C transcript variant X2
+organic cation transporter protein
+origin recognition complex subunit 1
+outer dynein arm-docking complex subunit 4
+oxidized purine nucleoside triphosphate hydrolase
+palmitoyltransferase ZDHHC17
+pancreas transcription factor 1 subunit alpha
+patatin-like phospholipase domain-containing protein 4
+peflin
+peptidyl-tRNA hydrolase 2%2C mitochondrial
+peroxisomal carnitine O-octanoyltransferase%2C transcript variant X1
+phosducin-like protein
+phosphatidate cytidylyltransferase%2C mitochondrial
+phosphatidylinositol-glycan biosynthesis class F protein
+phosphoglycerate kinase 1%2C transcript variant X2
+phospholipid hydroperoxide glutathione peroxidase-like%2C transcript variant X1
+piezo-type mechanosensitive ion channel component 1%2C transcript variant X4
+piggyBac transposable element-derived protein 4
+pinin
+plasmanylethanolamine desaturase
+platelet-activating factor acetylhydrolase%2C transcript variant X1
+polyadenylate-binding protein 1-like
+probable 28S ribosomal protein S16%2C mitochondrial%2C transcript variant X1
+probable caffeoyl-CoA O-methyltransferase 1
+probable chitinase 10
+probable cytochrome P450 12a5%2C mitochondrial%2C transcript variant X1
+probable peptidyl-tRNA hydrolase
+probable serine/threonine-protein kinase DDB_G0282963%2C transcript variant X1
+probable serine/threonine-protein kinase clkA
+probable serine/threonine-protein kinase nek3%2C transcript variant X1
+probable serine/threonine-protein kinase tsuA
+probable tRNA (uracil-O(2)-)-methyltransferase
+programmed cell death protein 4
+protein ERGIC-53
+protein FAM200B
+protein FAM8A1
+protein NATD1
+protein O-GlcNAcase
+protein O-mannose kinase
+protein PIF
+protein RER1%2C transcript variant X1
+protein SCAI%2C transcript variant X4
+protein WWC2%2C transcript variant X1
+protein Wnt-1%2C transcript variant X2
+protein YAE1 homolog
+protein flightless-1 homolog%2C transcript variant X2
+protein hobbit
+protein lin-52 homolog%2C transcript variant X2
+protein phosphatase 1 regulatory subunit 12A%2C transcript variant X2
+protein phosphatase 1E
+protein unc-79 homolog
+protein yippee-like 1
+protocadherin beta-15%2C transcript variant X2
+protocadherin beta-16%2C transcript variant X1
+protocadherin beta-2%2C transcript variant X1
+protocadherin beta-2%2C transcript variant X2
+protocadherin gamma-A9%2C transcript variant X1
+protocadherin-18%2C transcript variant X1
+proton myo-inositol cotransporter-like%2C transcript variant X1
+putative deoxyribonuclease TATDN2
+putative elongator complex protein 1
+putative lipoyltransferase 2%2C mitochondrial%2C transcript variant X4
+putative tyrosinase-like protein tyr-1
+pyruvate dehydrogenase phosphatase regulatory subunit%2C mitochondrial
+queuine tRNA-ribosyltransferase accessory subunit 2%2C transcript variant X3
+rab11 family-interacting protein 4A%2C transcript variant X1
+radical S-adenosyl methionine domain-containing protein 1%2C mitochondrial
+ras-related protein Rab-1A
+receptor-type tyrosine-protein phosphatase gamma%2C transcript variant X2
+reticulon-4-interacting protein 1 homolog%2C mitochondrial
+retinoblastoma-binding protein 5 homolog%2C transcript variant X1
+retinoic acid receptor RXR-alpha-B
+rho guanine nucleotide exchange factor 26
+ribonuclease P protein subunit p29%2C transcript variant X1
+ribosome biogenesis protein NSA2 homolog
+ribosome maturation protein SBDS%2C transcript variant X1
+ribulose-phosphate 3-epimerase
+secretory carrier-associated membrane protein 1%2C transcript variant X3
+septin-5%2C transcript variant X3
+serine-rich adhesin for platelets
+serine/threonine-protein kinase Nek10
+serine/threonine-protein kinase PAK 2%2C transcript variant X2
+serine/threonine-protein kinase ULK4
+serine/threonine-protein kinase WNK1
+serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit delta isoform%2C transcript variant X2
+serine/threonine-protein phosphatase 6 regulatory ankyrin repeat subunit B
+short transient receptor potential channel 7
+short-chain specific acyl-CoA dehydrogenase%2C mitochondrial
+single-stranded DNA-binding protein 3%2C transcript variant X4
+slit homolog 3 protein%2C transcript variant X2
+small nuclear ribonucleoprotein G
+sodium/hydrogen exchanger 9B2%2C transcript variant X1
+solute carrier family 2%2C facilitated glucose transporter member 10
+solute carrier family 35 member F5%2C transcript variant X4
+solute carrier organic anion transporter family member 4A1
+splicing regulatory glutamine/lysine-rich protein 1
+spondin-1
+stearoyl-CoA desaturase 5%2C transcript variant X11
+sulfite oxidase
+sulfotransferase 6B1%2C transcript variant X3
+sushi%2C von Willebrand factor type A%2C EGF and pentraxin domain-containing protein 1
+tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A
+tRNA 2'-phosphotransferase 1
+tRNA wybutosine-synthesizing protein 4%2C transcript variant X2
+tRNA-dihydrouridine(20a/20b) synthase [NAD(P)+]-like%2C transcript variant X2
+testis-specific serine/threonine-protein kinase 3
+tetraspanin-13%2C transcript variant X1
+tetratricopeptide repeat protein 39C
+thiamine transporter 1%2C transcript variant X3
+threonylcarbamoyl-AMP synthase
+tigger transposable element-derived protein 1-like
+titin homolog%2C transcript variant X2
+transcription factor Dp-1%2C transcript variant X2
+transcription factor GATA-4%2C transcript variant X2
+transcriptional regulator ATRX%2C transcript variant X1
+transcriptional repressor p66-beta%2C transcript variant X1
+translin-associated factor X-interacting protein 1
+transmembrane protein 131
+transmembrane protein 147
+transmembrane protein 231
+transmembrane protein 41B
+tropomodulin-1%2C transcript variant X2
+tropomyosin Tod p 1.0102
+tubulin monoglutamylase TTLL4%2C transcript variant X2
+two pore channel protein 2
+tyrosine-protein kinase Abl%2C transcript variant X1
+ubiquitin thioesterase zranb1-B%2C transcript variant X1
+uncharacterized LOC106867159
+uncharacterized LOC106867189
+uncharacterized LOC106867198%2C transcript variant X2
+uncharacterized LOC106867260
+uncharacterized LOC106867360%2C transcript variant X1
+uncharacterized LOC106867489
+uncharacterized LOC106867514%2C transcript variant X2
+uncharacterized LOC106867642%2C transcript variant X2
+uncharacterized LOC106867742%2C transcript variant X1
+uncharacterized LOC106867775%2C transcript variant X1
+uncharacterized LOC106867846%2C transcript variant X4
+uncharacterized LOC106868170
+uncharacterized LOC106868213%2C transcript variant X2
+uncharacterized LOC106868243%2C transcript variant X1
+uncharacterized LOC106868244
+uncharacterized LOC106868257
+uncharacterized LOC106868623
+uncharacterized LOC106868784
+uncharacterized LOC106869053%2C transcript variant X1
+uncharacterized LOC106869294
+uncharacterized LOC106869309
+uncharacterized LOC106869806
+uncharacterized LOC106870015
+uncharacterized LOC106870066
+uncharacterized LOC106870472
+uncharacterized LOC106870655
+uncharacterized LOC106870694%2C transcript variant X1
+uncharacterized LOC106870861
+uncharacterized LOC106870892%2C transcript variant X1
+uncharacterized LOC106871103
+uncharacterized LOC106871229
+uncharacterized LOC106871252%2C transcript variant X2
+uncharacterized LOC106871293
+uncharacterized LOC106871315%2C transcript variant X9
+uncharacterized LOC106871514
+uncharacterized LOC106871771%2C transcript variant X3
+uncharacterized LOC106871839%2C transcript variant X2
+uncharacterized LOC106871877
+uncharacterized LOC106872012
+uncharacterized LOC106872033
+uncharacterized LOC106872056
+uncharacterized LOC106872118
+uncharacterized LOC106872190
+uncharacterized LOC106872275
+uncharacterized LOC106872312
+uncharacterized LOC106872313%2C transcript variant X2
+uncharacterized LOC106872331
+uncharacterized LOC106872379
+uncharacterized LOC106872658
+uncharacterized LOC106872766
+uncharacterized LOC106872847
+uncharacterized LOC106872883
+uncharacterized LOC106872886
+uncharacterized LOC106873154
+uncharacterized LOC106873241
+uncharacterized LOC106873529
+uncharacterized LOC106873622
+uncharacterized LOC106873752
+uncharacterized LOC106874140%2C transcript variant X7
+uncharacterized LOC106874300%2C transcript variant X3
+uncharacterized LOC106874418
+uncharacterized LOC106874454
+uncharacterized LOC106874644
+uncharacterized LOC106874916
+uncharacterized LOC106874992
+uncharacterized LOC106875010
+uncharacterized LOC106875220
+uncharacterized LOC106875436
+uncharacterized LOC106875445
+uncharacterized LOC106875731
+uncharacterized LOC106876122
+uncharacterized LOC106876222
+uncharacterized LOC106876263
+uncharacterized LOC106876323
+uncharacterized LOC106876343%2C transcript variant X2
+uncharacterized LOC106876475
+uncharacterized LOC106876485
+uncharacterized LOC106876588
+uncharacterized LOC106876742
+uncharacterized LOC106876837%2C transcript variant X2
+uncharacterized LOC106876884
+uncharacterized LOC106877045
+uncharacterized LOC106877322
+uncharacterized LOC106877426
+uncharacterized LOC106877452
+uncharacterized LOC106877732%2C transcript variant X17
+uncharacterized LOC106877738%2C transcript variant X3
+uncharacterized LOC106877791
+uncharacterized LOC106878010
+uncharacterized LOC106878188
+uncharacterized LOC106878220%2C transcript variant X1
+uncharacterized LOC106878263
+uncharacterized LOC106878265
+uncharacterized LOC106878282
+uncharacterized LOC106878366
+uncharacterized LOC106878427%2C transcript variant X2
+uncharacterized LOC106878613%2C transcript variant X2
+uncharacterized LOC106878860
+uncharacterized LOC106878922%2C transcript variant X10
+uncharacterized LOC106878925
+uncharacterized LOC106878953%2C transcript variant X5
+uncharacterized LOC106879077
+uncharacterized LOC106879254
+uncharacterized LOC106879343
+uncharacterized LOC106879382
+uncharacterized LOC106879447%2C transcript variant X1
+uncharacterized LOC106879466%2C transcript variant X4
+uncharacterized LOC106879714
+uncharacterized LOC106879720%2C transcript variant X1
+uncharacterized LOC106879774%2C transcript variant X7
+uncharacterized LOC106879820
+uncharacterized LOC106880008%2C transcript variant X4
+uncharacterized LOC106880284%2C transcript variant X2
+uncharacterized LOC106880339%2C transcript variant X1
+uncharacterized LOC106880366
+uncharacterized LOC106880458
+uncharacterized LOC106880477%2C transcript variant X4
+uncharacterized LOC106880614%2C transcript variant X2
+uncharacterized LOC106881088%2C transcript variant X4
+uncharacterized LOC106881237
+uncharacterized LOC106881396
+uncharacterized LOC106881793
+uncharacterized LOC106881850%2C transcript variant X2
+uncharacterized LOC106881921
+uncharacterized LOC106882038
+uncharacterized LOC106882045
+uncharacterized LOC106882095
+uncharacterized LOC106882121
+uncharacterized LOC106882168%2C transcript variant X1
+uncharacterized LOC106882169%2C transcript variant X1
+uncharacterized LOC106882455
+uncharacterized LOC106882467%2C transcript variant X2
+uncharacterized LOC106882551%2C transcript variant X2
+uncharacterized LOC106882769
+uncharacterized LOC106882830%2C transcript variant X1
+uncharacterized LOC106882913%2C transcript variant X2
+uncharacterized LOC106883473
+uncharacterized LOC106883552
+uncharacterized LOC106883629
+uncharacterized LOC106883665
+uncharacterized LOC106883699
+uncharacterized LOC106883700
+uncharacterized LOC106883770
+uncharacterized LOC106883806%2C transcript variant X2
+uncharacterized LOC106883958
+uncharacterized LOC106883960
+uncharacterized LOC128248506
+uncharacterized LOC128249249
+uncharacterized LOC128249689
+uncharacterized protein C2orf42%2C transcript variant X4
+uncharacterized protein C2orf50 homolog%2C transcript variant X2
+uncharacterized protein DDB_G0271670-like
+uncharacterized protein DDB_G0287625-like
+uncharacterized protein NKAPD1%2C transcript variant X3
+uncharacterized transporter slc-17.2
+unconventional myosin-Ia
+unconventional myosin-XVIIIa%2C transcript variant X1
+universal stress protein YxiE%2C transcript variant X2
+upstream stimulatory factor 2
+vacuolar protein sorting-associated protein 37A
+vascular endothelial growth factor receptor 1%2C transcript variant X1
+vesicle-fusing ATPase%2C transcript variant X2
+von Willebrand factor A domain-containing protein 5A
+zinc finger FYVE domain-containing protein 1
+zinc finger MYM-type protein 6-like
+zinc finger TRAF-type-containing protein 1-B
+zinc finger protein 16%2C transcript variant X1
+zinc finger protein 160-like%2C transcript variant X2
+zinc finger protein 239
+zinc finger protein 239%2C transcript variant X4
+zinc finger protein 271
+zinc finger protein 271%2C transcript variant X1
+zinc finger protein 271%2C transcript variant X3
+zinc finger protein 271%2C transcript variant X5
+zinc finger protein 420%2C transcript variant X1
+zinc finger protein 431
+zinc finger protein 511
+zinc finger protein 62 homolog
+zinc finger protein 62 homolog%2C transcript variant X2
+zinc finger protein 665
+zinc finger protein 665%2C transcript variant X1
+zinc finger protein 665-like%2C transcript variant X1
+zinc finger protein 687a%2C transcript variant X2
+zinc finger protein 726
+zinc finger protein 845
+zinc finger protein 845%2C transcript variant X3
+zinc finger protein 850%2C transcript variant X2
+zinc finger protein 91
+zinc finger protein OZF
+zinc finger protein OZF%2C transcript variant X1
+zinc finger protein OZF-like%2C transcript variant X4
+zinc finger protein ZFP2
