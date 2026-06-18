@@ -50,7 +50,7 @@ Downstream analysis (both methods):
 ### 4. Phylogenetics (`04_phylogenetics/`)
 - MAFFT alignment (--auto --reorder) of 8 epigenetic gene families
 - IQ-TREE tree inference: model LG+G4, 1000 ultrafast bootstraps
-- Species: *O. bimaculoides*, *O. sinensis*, *O. vulgaris*, human, mouse, zebrafish, sea urchin, fly
+- Species: *O. bimaculoides*, *O. vulgaris*, *O. sinensis*, *A. fangsiao*, *A. hians*, *E. cirrhosa*
 
 ```bash
 # Run full pipeline
