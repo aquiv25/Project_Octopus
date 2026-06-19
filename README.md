@@ -132,7 +132,6 @@ pip install -r requirements.txt
 |------|--------|------|-------|
 | `GCF_001194135.2_ASM119413v2_genomic.fna` | NCBI RefSeq (GCF_001194135.2) | 2.2 GB | Reference genome assembly |
 | `GCF_001194135.2_ASM119413v2_genomic.gff` | NCBI RefSeq (GCF_001194135.2) | ~50 MB | Genome annotation |
-| Z-DNABERT BedGraph predictions | Z-DNABERT model output | ~500 MB | Whole-genome Z-DNA probability scores |
 | G4-DNABERT model weights (`pytorch_model.bin`) | Fine-tuned DNABERT | 2 × ~360 MB | Stored in `03_g4_analysis/G4-DNABERT_model/` — download separately |
 
 Download genome and annotation:
