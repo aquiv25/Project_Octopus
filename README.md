@@ -118,7 +118,13 @@ pip install -r requirements.txt
 |------|----------|------|
 | `GCF_001194135.2_ASM119413v2_zdna_thr025.bedgraph.gz` | `02_zdna_analysis/results/` | 24 MB |
 | `zhunter_z-dna.bedgraph.gz` | `02_zdna_analysis/results/` | 14 MB |
-| `g4_pattern.bed` | `03_g4_analysis/results/` | — |
+| `ZDNA_promoters-2.csv` | `02_zdna_analysis/results/` | 3.3 MB |
+| `g4_pattern.bed` | `03_g4_analysis/results/` | 1.1 MB |
+| `genes_with_PQS_in_promoters.txt` | `03_g4_analysis/results/` | 12 KB |
+| `pqs_genes_obimaculoides.txt` | `03_g4_analysis/results/` | 28 KB |
+| `pqs_in_promoters.tsv` | `03_g4_analysis/results/` | 56 KB |
+| `enrichment_g4.tsv` | `05_enrichment/data/` | 52 KB |
+| `enrichment_zdna.tsv` | `05_enrichment/data/` | 1.8 MB |
 
 ### Not included (too large — download separately)
 
