@@ -1,4 +1,4 @@
-# Epigenetic Regulatory Potential of Z-DNA and G-Quadruplex Structures at Gene Promoters
+# Epigenetic Regulatory Potential of Z-DNA and G-Quadruplex Structures
 
 A comprehensive bioinformatic analysis of Z-DNA and G-quadruplex (G4) structures in the *Octopus bimaculoides* genome, including promoter annotation, ortholog analysis, functional enrichment, and phylogenetic inference for epigenetic regulatory genes.
 
